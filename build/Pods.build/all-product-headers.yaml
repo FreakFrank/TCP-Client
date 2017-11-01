@@ -1,0 +1,60 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/kareemismail/XCodeProjects/TCPClient/build/Debug-iphonesimulator/Pods_TCPClient.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-TCPClient-umbrella.h",
+          'external-contents': "/Users/kareemismail/XCodeProjects/TCPClient/Pods/Target Support Files/Pods-TCPClient/Pods-TCPClient-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_TCPClient-Swift.h",
+          'external-contents': "/Users/kareemismail/XCodeProjects/TCPClient/build/Debug-iphonesimulator/Pods_TCPClient.framework/Headers/Pods_TCPClient-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/kareemismail/XCodeProjects/TCPClient/build/Debug-iphonesimulator/Pods_TCPClient.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/kareemismail/XCodeProjects/TCPClient/build/Pods.build/Debug-iphonesimulator/Pods-TCPClient.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/kareemismail/XCodeProjects/TCPClient/build/Debug-iphonesimulator/SwiftSocket/SwiftSocket.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SwiftSocket-Swift.h",
+          'external-contents': "/Users/kareemismail/XCodeProjects/TCPClient/build/Debug-iphonesimulator/SwiftSocket/SwiftSocket.framework/Headers/SwiftSocket-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwiftSocket-umbrella.h",
+          'external-contents': "/Users/kareemismail/XCodeProjects/TCPClient/Pods/Target Support Files/SwiftSocket/SwiftSocket-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/kareemismail/XCodeProjects/TCPClient/build/Debug-iphonesimulator/SwiftSocket/SwiftSocket.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/kareemismail/XCodeProjects/TCPClient/build/Pods.build/Debug-iphonesimulator/SwiftSocket.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

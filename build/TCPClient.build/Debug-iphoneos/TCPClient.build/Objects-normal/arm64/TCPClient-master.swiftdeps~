@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "7e076ba6dae925fa651bf2d18c11420a"
+build_time: [1508365077, 937834000]
+inputs:
+  "/Users/kareemismail/XCodeProjects/TCPClient/TCPClient/ViewController.swift": [1508365077, 0]
+  "/Users/kareemismail/XCodeProjects/TCPClient/TCPClient/AppDelegate.swift": [1508364774, 0]

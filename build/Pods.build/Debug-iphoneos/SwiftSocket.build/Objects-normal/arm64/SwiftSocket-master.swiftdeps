@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "2561396a9eeb23fb51f8bddf0be35d00"
+build_time: [1508365071, 783367000]
+inputs:
+  "/Users/kareemismail/XCodeProjects/TCPClient/Pods/SwiftSocket/Sources/Result.swift": [1508364825, 0]
+  "/Users/kareemismail/XCodeProjects/TCPClient/Pods/SwiftSocket/Sources/Socket.swift": [1508364825, 0]
+  "/Users/kareemismail/XCodeProjects/TCPClient/Pods/SwiftSocket/Sources/TCPClient.swift": [1508364825, 0]
+  "/Users/kareemismail/XCodeProjects/TCPClient/Pods/SwiftSocket/Sources/UDPClient.swift": [1508364825, 0]

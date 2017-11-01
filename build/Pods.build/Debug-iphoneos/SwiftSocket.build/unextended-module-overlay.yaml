@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/kareemismail/XCodeProjects/TCPClient/build/Debug-iphoneos/SwiftSocket/SwiftSocket.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/kareemismail/XCodeProjects/TCPClient/build/Pods.build/Debug-iphoneos/SwiftSocket.build/unextended-module.modulemap',
+    }]
+  }]
+}
